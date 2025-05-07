@@ -1,0 +1,41 @@
+{
+  "globalStyle": {"navigationStyle":"custom"},
+  "pages": [
+    {
+      "path": "pages/zhuye/zhuye",
+      "style": {}
+    },
+    {
+      "path": "pages/wode/wode",
+      "style": {}
+    },
+    {
+      "path": "pages/gerenxinxi/gerenxinxi",
+      "style": {}
+    },
+    {
+      "path": "pages/wodekefu/wodekefu",
+      "style": {}
+    },
+    {
+      "path": "pages/xiaoxi/xiaoxi",
+      "style": {}
+    },
+    {
+      "path": "pages/woyaoxunwu/woyaoxunwu",
+      "style": {}
+    },
+    {
+      "path": "pages/sousuo/sousuo",
+      "style": {}
+    },
+    {
+      "path": "pages/xitongtongzhi/xitongtongzhi",
+      "style": {}
+    },
+    {
+      "path": "pages/zhinengxunren/zhinengxunren",
+      "style": {}
+    }
+  ]
+}
